@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: 'https://minimal.vercel.app',
+  siteUrl: 'https://ze-minimal.vercel.app',
   generateRobotsTxt: true,
   // optional
   // robotsTxtOptions: {
